@@ -9,7 +9,6 @@ import java.util.Locale
 
 fun main(args: Array<String>) {
 
-
     val address="jhjbjbjhb"
     val newValue=address.subSequence(0, 40)
     print(newValue)
